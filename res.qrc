@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/leftRotate.png</file>
+        <file>res/rightRotate.png</file>
+        <file>res/left-circle.png</file>
+        <file>res/right-circle.png</file>
+    </qresource>
+</RCC>
